@@ -2,7 +2,6 @@
 Library           Browser
 Library           JSONLibrary
 Resource          ../resources/loginResources.robot
-Resource          ../pageobjects/login_page.robot
 
 *** Test Cases ***
 Login Com Vários Usuários (via JSON)
